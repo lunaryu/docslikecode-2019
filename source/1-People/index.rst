@@ -8,12 +8,21 @@ Welcome to Sphinx Training Program
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 学员介绍:
 
-   1-Introduction/introduction.rst
-   1-Introduction/markdown.md
+   1-People/chenxian.md
+   1-People/Chenxuan.md
+   1-People/chenyu.md
+   1-People/chiqingna.md
+   1-People/gaozhijun.md
+   1-People/LiDan.md
+   1-People/LImei.md
+   1-People/tangzhenhua.md
+   1-People/zhangshengrui.md
+   1-People/zhaojing.md
+   1-People/xuejunyue.md
+
    
-   2-Quickstart/installation.rst
 
 
 
