@@ -1,0 +1,45 @@
+.. docslikecode-2019 documentation master file, created by
+   sphinx-quickstart on Sat Jun 15 16:22:43 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+文档代码化开发研修班学员心得体会
+=======================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 学员介绍:
+
+   1-People/chenxian.md
+   1-People/Chenxuan.md
+   1-People/chenyu.md
+   1-People/chiqingna.md
+   1-People/gaozhijun.md
+   1-People/LiDan.md
+   1-People/LImei.md
+   1-People/tangzhenhua.md
+   1-People/zhangshengrui.md
+   1-People/zhaojing.md
+   1-People/xuejunyue.md
+
+   
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: 学员心得体会
+
+   2-Stories/gaozhijun.rst
+   2-Stories/chenyu.rst
+   2-Stories/xuejunyue.rst
+   2-Stories/zhaojing.rst
+   2-Stories/zhangshengrui.rst
+   2-Stories/chenxian.rst
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
